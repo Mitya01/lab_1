@@ -32,5 +32,5 @@ bash script.bash
 
 5. В терминале отобразилась строка `Welcome to ITMO University`.
 
-![Снимок экрана 2024-09-25 192126](https://github.com/user-attachments/assets/269b6b89-4586-4157-84a3-2b0ee758ad61)
+![image](https://github.com/user-attachments/assets/269b6b89-4586-4157-84a3-2b0ee758ad61)
 
