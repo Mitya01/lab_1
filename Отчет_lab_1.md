@@ -15,7 +15,7 @@ touch script.bash
 ```bash
 gedit script.bash
 ```
-*
+
 3. Вписал в файл следующий скрипт
 
 ```bash
@@ -23,7 +23,10 @@ gedit script.bash
 
 echo "Welcome to ITMO University"
 ```
-*
+
+![image](https://github.com/user-attachments/assets/0fb8bbc5-047d-4497-b808-86069bc2741d)
+
+
 4. Сохранил файл. Закрыл текстовый редактор `gedit`. Запустил bash-скрипт, выполнив в терминале
 
 ```bash
