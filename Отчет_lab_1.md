@@ -34,3 +34,14 @@ bash script.bash
 
 ![image](https://github.com/user-attachments/assets/269b6b89-4586-4157-84a3-2b0ee758ad61)
 
+## Задача
+
+Затем я приступил к задаче модифицирования файла `script.bash` так, чтобы при его запуске в терминале в виде
+
+```bash
+bash script.bash Vasya Pupkin
+```
+
+Вывод был
+
+`Welcome, Vasya Pupkin`
