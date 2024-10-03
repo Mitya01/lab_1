@@ -68,3 +68,6 @@ echo "Welcome, $*"
 
 ![image](https://github.com/user-attachments/assets/91b12a67-0224-492f-9b90-fda91644fbcf)
 
+## Вывод
+
+Я получил базовые знания о том, как работать в Linux Ubuntu, в особенности в его Терминале и текстовом редакторе.  
