@@ -24,8 +24,7 @@ gedit script.bash
 echo "Welcome to ITMO University"
 ```
 
-![image](https://github.com/user-attachments/assets/0fb8bbc5-047d-4497-b808-86069bc2741d)
-
+![image](https://github.com/user-attachments/assets/43d6ebe6-3ecf-445d-8717-0d0dddce8371)
 
 4. Сохранил файл. Закрыл текстовый редактор `gedit`. Запустил bash-скрипт, выполнив в терминале
 
@@ -48,3 +47,6 @@ bash script.bash Vasya Pupkin
 Вывод был
 
 `Welcome, Vasya Pupkin`
+
+Для выполнения задачи я обратился к Интернету, изучил, как работать с параметрами в командной строке, и нашёл подходящий метод:
+Переменная `$*` содержит все параметры, введённые в командной строке, в виде единого «слова».
